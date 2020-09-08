@@ -10,7 +10,7 @@
 2. 周杰伦
 3. 麻辣烫
    
-给你展示一段javascript代码吧
+给你展示一段 `javascript` 代码吧
 ```javascript
 var a=12
 console.log(a)
